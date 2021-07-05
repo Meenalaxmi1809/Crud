@@ -1,0 +1,32 @@
+.choco{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display:inline-block;
+    align-content: center;
+    
+}
+body,html{
+    background-image: url(../../../assets/m.gif);
+    background-repeat: repeat;
+    height: 100%;
+    background-position: center;
+    padding-top: 5%;
+    padding-bottom: 7.8%;
+}
+.container{
+    border-radius: 2%;
+    background-color: darkgray;
+    width: 50%;
+    height: 75%;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+
+}
+.button{
+    color: white;
+}
